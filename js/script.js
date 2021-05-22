@@ -23,7 +23,6 @@ function fifo(item,tiempo){
             list.setAttribute('class', letraLi +tiempo+ i)
             if(marco[i] != undefined){
                 list.innerHTML = marco[i];
-               debugger
             }else{
                 list.innerHTML = "";
                 

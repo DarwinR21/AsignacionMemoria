@@ -3,6 +3,15 @@ body{
 }
 
 
+.btnfifo{
+    position:absolute;
+    top: 35em;
+    left: 50em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+
 .conte{
     padding-top: 9vw;
 }

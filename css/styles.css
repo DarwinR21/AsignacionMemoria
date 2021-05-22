@@ -1,8 +1,21 @@
 body{
     background-color: black;
 }
+.row{
+    padding-left: 15em;
+}
+.btnfifo{
+    position:absolute;
+    top: 35em;
+    left: 50em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
 
-
+.parrafo{
+    color: bisque;
+    margin-left: 7em;
+}
 .conte{
     padding-top: 9vw;
 }
@@ -452,3 +465,5 @@ body{
     left: 51em;
     font-size: xx-large;
 }
+
+
