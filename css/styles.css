@@ -1,0 +1,454 @@
+body{
+    background-color: black;
+}
+
+
+.conte{
+    padding-top: 9vw;
+}
+
+.titulo{
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fifo{
+    padding-top: 2vw;  
+    padding-left: 30vw;
+}
+
+.numero{
+    padding-left: 6em;
+    padding-top: 3em;
+    color: white;
+}
+.numero2{
+    padding-left: 6.5em;
+    padding-top: 3em;
+    color: white;
+}
+
+.numero3{
+    padding-left: 6em;
+    padding-top: 3em;
+    color: white;
+}
+
+.numero4{
+    padding-left: 5.6em;
+    padding-top: 3em;
+    color: white;
+}
+
+.paginaTOP{
+    padding-top: 1em !important;
+    color:#51a62d !important;
+}
+
+.letra{
+    color: thistle;
+    position: relative;
+    left: 93px;
+    top: -175px;
+}
+
+
+.letra1{
+    color: thistle;
+    position: relative;
+    left: 205px;
+    top: -176px;
+}
+
+.ul1{
+    position: absolute;
+    left: 3.8em;
+    top: 17.5em;
+    color: bisque;
+    list-style: none;    
+}
+
+
+
+
+.ul2{
+    position: absolute;
+    left: 10.7em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+
+.li21{
+    position: absolute;
+    top: 2.4em;
+}
+
+.ul3{
+    position: absolute;
+    left: 17.5em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li31{
+    position: absolute;
+    top: 2.4em;
+}
+
+.li32{
+    position: absolute;
+    top: 4.5em;
+    left: 2.2em;
+}
+
+
+
+
+
+.ul4{
+    position: absolute;
+    left: 24.5em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li41{
+    position: absolute;
+    top: 2.4em;
+}
+
+.li42{
+    position: absolute;
+    top: 4.5em;
+    left: 2em;
+}
+
+
+.ul5{
+    position: absolute;
+    left: 31.5em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li51{
+    position: absolute;
+    top: 2.4em;
+}
+
+.li52{
+    position: absolute;
+    top: 4.5em;
+    left: 2em;
+}
+
+
+.ul6{
+    position: absolute;
+    left: 38.1em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li61{
+    position: absolute;
+    top: 2.4em;
+}
+
+.li62{
+    position: absolute;
+    top: 4.5em;
+    left: 2em;
+}
+
+
+.ul7{
+    position: absolute;
+    left: 45.1em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li71{
+    position: absolute;
+    top: 2.4em;
+}
+
+.li72{
+    position: absolute;
+    top: 4.5em;
+    left: 2em;
+}
+
+.ul8{
+    position: absolute;
+    left: 52em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li81{
+    position: absolute;
+    top: 2.4em;
+}
+
+.li82{
+    position: absolute;
+    top: 4.5em;
+    left: 2em;
+}
+
+
+.ul9{
+    position: absolute;
+    left: 58.9em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li91{
+    position: absolute;
+    top: 2.4em;
+}
+
+.li92{
+    position: absolute;
+    top: 4.5em;
+    left: 2em;
+}
+
+
+.ul10{
+    position: absolute;
+    left: 65.6em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li101{
+    position: absolute;
+    top: 2.4em;
+}
+
+.li102{
+    position: absolute;
+    top: 4.5em;
+    left: 2em;
+}
+
+
+.ul11{
+    position: absolute;
+    left: 72.5em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li111{
+    position: absolute;
+    top: 2.4em;
+}
+
+.li112{
+    position: absolute;
+    top: 4.5em;
+    left: 2em;
+}
+
+
+.ul12{
+    position: absolute;
+    left: 79.4em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li121{
+    position: absolute;
+    top: 2.4em;
+}
+
+.li122{
+    position: absolute;
+    top: 4.5em;
+    left: 2em;
+}
+
+
+.ul13{
+    position: absolute;
+    left: 86.4em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li131{
+    position: absolute;
+    top: 2.4em;
+}
+
+.li132{
+    position: absolute;
+    top: 4.5em;
+    left: 2em;
+}
+
+
+.ul14{
+    position: absolute;
+    left: 93.4em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li141{
+    position: absolute;
+    top: 2.4em;
+}
+
+.li142{
+    position: absolute;
+    top: 4.5em;
+    left: 2em;
+}
+
+
+.ul15{
+    position: absolute;
+    left: 100.1em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li151{
+    position: absolute;
+    top: 2.4em;
+}
+
+.li152{
+    position: absolute;
+    top: 4.5em;
+    left: 2em;
+}
+
+
+/*fallos*/
+
+.F1{
+    position: absolute;
+    color: #51a62d;
+    top: 13em;
+    left: 2.8em;
+    font-size: xx-large;
+}
+
+.F2{
+    position: absolute;
+    color: #51a62d;
+    top: 13em;
+    left: 6.2em;
+    font-size: xx-large;
+}
+
+.F3{
+    position: absolute;
+    color: #51a62d;
+    top: 13em;
+    left: 9.7em;
+    font-size: xx-large;
+}
+
+.F4{
+    position: absolute;
+    color: #51a62d;
+    top: 13em;
+    left: 13.1em;
+    font-size: xx-large;
+}
+.F5{
+    position: absolute;
+    color: #51a62d;
+    top: 13em;
+    left: 16.5em;
+    font-size: xx-large;
+}
+
+.F6{
+    position: absolute;
+    color: #51a62d;
+    top: 13em;
+    left: 20em;
+    font-size: xx-large;
+}
+
+.F7{
+    position: absolute;
+    color: #51a62d;
+    top: 13em;
+    left: 23.5em;
+    font-size: xx-large;
+}
+.F8{
+    position: absolute;
+    color: #51a62d;
+    top: 13em;
+    left: 26.9em;
+    font-size: xx-large;
+}
+
+.F9{
+    position: absolute;
+    color: #51a62d;
+    top: 13em;
+    left: 30.4em;
+    font-size: xx-large;
+}
+
+.F10{
+    position: absolute;
+    color: #51a62d;
+    top: 13em;
+    left: 33.8em;
+    font-size: xx-large;
+}
+
+.F11{
+    position: absolute;
+    color: #51a62d;
+    top: 13em;
+    left: 37.3em;
+    font-size: xx-large;
+}
+
+.F12{
+    position: absolute;
+    color: #51a62d;
+    top: 13em;
+    left: 40.7em;
+    font-size: xx-large;
+}
+
+.F13{
+    position: absolute;
+    color: #51a62d;
+    top: 13em;
+    left: 44.4em;
+    font-size: xx-large;
+}
+
+.F14{
+    position: absolute;
+    color: #51a62d;
+    top: 13em;
+    left: 47.6em;
+    font-size: xx-large;
+}
+
+.F15{
+    position: absolute;
+    color: #51a62d;
+    top: 13em;
+    left: 51em;
+    font-size: xx-large;
+}

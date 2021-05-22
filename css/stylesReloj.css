@@ -1,0 +1,473 @@
+body{
+    background-color: black;
+}
+
+
+.conte{
+    padding-top: 9vw;
+}
+
+.titulo{
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fifo{
+    padding-top: 2vw;  
+    padding-left: 30vw;
+}
+
+.numero{
+    padding-left: 6em;
+    padding-top: 3em;
+    color: white;
+}
+.numero2{
+    padding-left: 6.5em;
+    padding-top: 3em;
+    color: white;
+}
+
+.numero3{
+    padding-left: 6em;
+    padding-top: 3em;
+    color: white;
+}
+
+.numero4{
+    padding-left: 5.6em;
+    padding-top: 3em;
+    color: white;
+}
+
+.paginaTOP{
+    padding-top: 1em !important;
+    color:#fdd000 !important;
+}
+
+.letra{
+    position: relative;
+    left: 93px;
+    top: -175px;
+}
+
+
+.letra1{
+    position: relative;
+    left: 205px;
+    top: -176px;
+}
+
+.ul1{
+    position: absolute;
+    left: 3.6em;
+    top: 17.5em;
+    color: bisque;
+    list-style: none;    
+}
+
+
+
+
+
+.ul2{
+    position: absolute;
+    left: 10.5em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+
+.li21{
+    position: absolute;
+    top: 2.4em;
+    width: 3em;
+    left: 1.9em; 
+}
+
+.ul3{
+    position: absolute;
+    left: 17.3em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li31{
+    position: absolute;
+    top: 2.4em;
+    width: 3em;
+    left: 2em;
+}
+
+.li32{
+    position: absolute;
+    top: 4.7em;
+    left: 2em;
+    width: 3em;
+}
+.ul4{
+    position: absolute;
+    left: 24.2em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li41{
+    position: absolute;
+    top: 2.4em;
+    width: 3em;
+}
+
+.li42{
+    position: absolute;
+    top: 4.8em;
+    left: 2em;
+    width: 3em;
+}
+.ul5{
+    position: absolute;
+    left: 31.1em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li51{
+    position: absolute;
+    top: 2.4em;
+    width: 3em;
+}
+.li52{
+    position: absolute;
+    top: 4.8em;
+    left: 2em;
+    width: 3em;
+}
+
+
+.ul6{
+    position: absolute;
+    left: 38em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li61{
+    position: absolute;
+    top: 2.4em;
+    width: 3em;
+}
+
+.li62{
+    position: absolute;
+    top: 4.8em;
+    left: 2em;
+    width: 3em;
+}
+
+
+.ul7{
+    position: absolute;
+    left: 45em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li71{
+    position: absolute;
+    top: 2.4em;
+    left: 1.8em;
+    width: 3em;
+}
+
+.li72{
+    position: absolute;
+    top: 4.8em;
+    left: 1.8em;
+    width: 3em;
+}
+
+.ul8{
+    position: absolute;
+    left: 51.7em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li81{
+    position: absolute;
+    top: 2.4em;
+    left: 2.1em;
+    width: 3em;
+}
+
+.li82{
+    position: absolute;
+    top: 4.8em;
+    left: 2.1em;
+    width: 3em;
+}
+
+
+.ul9{
+    position: absolute;
+    left: 58.6em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li91{
+    position: absolute;
+    top: 2.4em;
+    left: 2.1em;
+    width: 3em;
+}
+
+.li92{
+    position: absolute;
+    top: 4.8em;
+    left: 2.1em;
+    width: 3em;
+}
+
+
+.ul10{
+    position: absolute;
+    left: 65.4em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li101{
+    position: absolute;
+    top: 2.4em;
+    width: 3em;
+}
+
+.li102{
+    position: absolute;
+    top: 4.8em;
+    left: 2em; 
+    width: 3em;
+}
+
+.ul11{
+    position: absolute;
+    left: 72.4em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li111{
+    position: absolute;
+    top: 2.4em;
+    width: 3em;
+}
+
+.li112{
+    position: absolute;
+    top: 4.8em;
+    left: 2em;
+    width: 3em;
+}
+
+.ul12{
+    position: absolute;
+    left: 79.2em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li121{
+    position: absolute;
+    top: 2.4em;
+    width: 3em;
+}
+
+.li122{
+    position: absolute;
+    top: 4.8em;
+    left: 2em;
+    width: 3em;
+}
+.ul13{
+    position: absolute;
+    left: 86.1em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li131{
+    position: absolute;
+    top: 2.4em;
+    width: 3em;
+}
+.li132{
+    position: absolute;
+    top: 4.8em;
+    left: 2em;
+    width: 3em;
+}
+.ul14{
+    position: absolute;
+    left: 93em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li141{
+    position: absolute;
+    width: 3em;
+    top: 2.4em;
+}
+
+.li142{
+    position: absolute;
+    top: 4.8em;
+    left: 2em;
+    width: 3em;
+}
+.ul15{
+    position: absolute;
+    left: 99.9em;
+    top: 17.4em;
+    color: bisque;
+    list-style: none;    
+}
+.li151{
+    position: absolute;
+    top: 2.4em;
+    width: 3em;
+}
+.li152{
+    position: absolute;
+    top: 4.8em;
+    left: 2em;
+    width: 3em;
+}
+
+
+/*fallos*/
+
+.F1{
+    position: absolute;
+    color: #fdd000;
+    top: 13em;
+    left: 3em;
+    font-size: xx-large;
+}
+
+.F2{
+    position: absolute;
+    color: #fdd000;
+    top: 13em;
+    left: 6.5em;
+    font-size: xx-large;
+}
+
+.F3{
+    position: absolute;
+    color: #fdd000;
+    top: 13em;
+    left: 9.8em;
+    font-size: xx-large;
+}
+
+.F4{
+    position: absolute;
+    color: #fdd000;
+    top: 13em;
+    left: 13.3em;
+    font-size: xx-large;
+}
+.F5{
+    position: absolute;
+    color: #fdd000;
+    top: 13em;
+    left: 16.8em;
+    font-size: xx-large;
+}
+
+.F6{
+    position: absolute;
+    color: #fdd000;
+    top: 13em;
+    left: 20.1em;
+    font-size: xx-large;
+}
+
+.F7{
+    position: absolute;
+    color: #fdd000;
+    top: 13em;
+    left: 23.7em;
+    font-size: xx-large;
+}
+.F8{
+    position: absolute;
+    color: #fdd000;
+    top: 13em;
+    left: 27.1em;
+    font-size: xx-large;
+}
+
+.F9{
+    position: absolute;
+    color: #fdd000;
+    top: 13em;
+    left: 30.6em;
+    font-size: xx-large;
+}
+
+.F10{
+    position: absolute;
+    color: #fdd000;
+    top: 13em;
+    left: 34em;
+    font-size: xx-large;
+}
+
+.F11{
+    position: absolute;
+    color: #fdd000;
+    top: 13em;
+    left: 37.5em;
+    font-size: xx-large;
+}
+
+.F12{
+    position: absolute;
+    color: #fdd000;
+    top: 13em;
+    left: 41em;
+    font-size: xx-large;
+}
+
+.F13{
+    position: absolute;
+    color: #fdd000;
+    top: 13em;
+    left: 44.4em;
+    font-size: xx-large;
+}
+
+.F14{
+    position: absolute;
+    color: #fdd000;
+    top: 13em;
+    left: 47.9em;
+    font-size: xx-large;
+}
+
+.F15{
+    position: absolute;
+    color: #fdd000;
+    top: 13em;
+    left: 51.2em;
+    font-size: xx-large;
+}
+
+
+
+
+
+
