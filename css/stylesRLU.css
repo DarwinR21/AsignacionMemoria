@@ -6,9 +6,13 @@ body{
 .btnfifo{
     position:absolute;
     top: 35em;
-    left: 50em;
+    left: 60em;
     padding-left: 2em;
     padding-right: 2em;
+}
+
+.img-fluid2{
+    padding-right: 6em;
 }
 
 
